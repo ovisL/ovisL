@@ -1,9 +1,9 @@
 <!-- ### Hi there 👋 -->
 ### solved.ac Profile
 <div align="center">
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark) -->
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=herosheep)](https://solved.ac/herosheep/)
-  [![mazandi profile](http://mazandi.herokuapp.com/api?handle=herosheep&theme=warm)](https://solved.ac/herosheep/)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=herosheep&theme=warm)
+  <br><br>
 </div>
 <!--
 **ovisL/ovisL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
