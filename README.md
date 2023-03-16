@@ -1,6 +1,8 @@
 ### Hi there 👋
 <!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=herosheep)](https://solved.ac/herosheep/)
+[![mazandi profile](http://mazandi.herokuapp.com/api?handle=herosheep&theme=dark)](https://solved.ac/herosheep/)
+
 <!--
 **ovisL/ovisL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
