@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
-<h3>solved.ac Profile</h3>
 <div align="center">
+  <h3>solved.ac Profile</h3>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=herosheep)](https://solved.ac/herosheep/)
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=herosheep&theme=warm)
